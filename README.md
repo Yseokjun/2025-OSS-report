@@ -1,6 +1,8 @@
 # 2025-OSS-report
-2025 2학기 오픈소스소프트웨워어
+2025 2학기 오픈소스소프트웨어
 
+버전 관리 시스템 깃과 깃허브 자료
+https://eclass.dongyang.ac.kr/mod/ubfile/view.php?id=464982
 
 # 2025-OSS-중간고사 대면수업
 
